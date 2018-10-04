@@ -12,7 +12,7 @@
 ## :pencil2: Skills & Highlights
 * __Software Development & UX/UI Design__
   * HTML5, CSS3, Bootstrap, Materialize, SASS, Javascript, jQuery
-  * React.js, React-Router, Flux, Context API, AJAX, Fetch, Webpack
+  * React.js, React-Router, Flux, Context API, AJAX, Fetch, Axios, Webpack
   * Python, Django, Migrations, RESTful API’s, SQL, MongoDB
   * HTTP Architecture, MVC, ORM, Git Version Control System
   * Experience with React Native, Ruby, Java, C# , iOS/Swift 3, Firebase, Redux, Docker, AWS
